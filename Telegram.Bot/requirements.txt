@@ -1,0 +1,4 @@
+#librerias
+pyTelegramBotAPI
+pyrebase4
+flask
